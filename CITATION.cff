@@ -7,6 +7,7 @@ date-released: 2026-11-05
 authors:
   - name: "INFORMULA Kft."
     website: "https://www.informula.hu"
+doi: 10.5281/zenodo.24369042
 url: "https://proactivedataproduct.com/v1.0/"
 license: CC-BY-4.0
 keywords:
