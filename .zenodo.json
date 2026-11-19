@@ -1,0 +1,35 @@
+{
+  "title": "Proactive Data Product – Definition v1.0",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "Definition of the term \"proactive data product\", version 1.0, first published by INFORMULA Kft. on 5 November 2026 in Budapest (informula.hu/proactive-data-product). A proactive data product is a real-time data product of a business entity with a named owner and a contract, which serves its current state on request (state view) and publishes business-meaningful events on its own (event view).",
+  "creators": [
+    {
+      "name": "INFORMULA Kft."
+    }
+  ],
+  "publication_date": "2026-11-05",
+  "version": "1.0",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "proactive data product",
+    "data product",
+    "event view",
+    "state view",
+    "data mesh",
+    "event streaming"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://proactivedataproduct.com/v1.0/",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://web.archive.org/web/20261119084823/https://www.informula.hu/proactive-data-product",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ]
+}
