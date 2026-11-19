@@ -15,6 +15,8 @@ A published version is never edited; changes are released as a new version with 
 ## How to cite
 INFORMULA (2026): *Proactive Data Product – Definition v1.0*, proactivedataproduct.com/v1.0/
 
+DOI: [10.5281/zenodo.24369042](https://doi.org/10.5281/zenodo.24369042)
+
 See also [CITATION.cff](CITATION.cff).
 
 ## Version history
