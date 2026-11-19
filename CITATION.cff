@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this definition, please cite it as below."
+type: generic
+title: "Proactive Data Product – Definition v1.0"
+version: "1.0"
+date-released: 2026-11-05
+authors:
+  - name: "INFORMULA Kft."
+    website: "https://www.informula.hu"
+url: "https://proactivedataproduct.com/v1.0/"
+license: CC-BY-4.0
+keywords:
+  - proactive data product
+  - data product
+  - event view
+  - state view
+  - data mesh
+  - event streaming
